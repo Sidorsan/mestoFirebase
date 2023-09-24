@@ -1,0 +1,5 @@
+.element__content {
+    min-width: 246px;
+    margin: 25px 0 0 21px;
+    display: flex;
+}

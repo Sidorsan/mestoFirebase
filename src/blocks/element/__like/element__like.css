@@ -1,0 +1,15 @@
+.element__like {
+  background: url(../../../images/heart.svg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  min-width: 22px;
+  min-height: 19px;
+  border-style: none;
+  padding: 0;
+  cursor: pointer;
+}
+
+.element__like:hover {
+  opacity: 0.5;
+  cursor: pointer;
+}

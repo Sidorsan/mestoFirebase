@@ -1,0 +1,8 @@
+.form__section {
+  margin-top: 17px;
+  position: relative;
+}
+
+.form__section:first-of-type {
+  margin-top: 0;
+}

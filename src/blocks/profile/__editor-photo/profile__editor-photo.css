@@ -1,0 +1,20 @@
+.profile__editor-photo {
+  border-radius: 50%;
+  width: 120px;
+  height: 120px;
+}
+
+.profile__editor-photo:hover::after {
+  width: 30px;
+  height: 30px;
+  padding: 45px;
+  border-radius: 50%;
+  position: absolute;
+  margin-left: -120px;
+  content: url(../../../images/AvatarPen.svg);
+  text-align: center;
+  background: rgba(0, 0, 0, 0.8);
+  cursor: pointer;
+}
+
+

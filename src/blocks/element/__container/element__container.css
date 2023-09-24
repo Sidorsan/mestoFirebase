@@ -1,0 +1,21 @@
+.element__container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(282px, 1fr));
+    gap: 20px 17px;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+@media screen and (min-width: 768px) {
+  .element__container {
+    margin-left: 81px;
+  }
+}
+
+
+@media screen and (min-width: 1280px) {
+    .element__container{
+      margin: 47.25px 181px 0;
+    }
+  }

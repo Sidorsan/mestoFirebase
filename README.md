@@ -9,4 +9,4 @@
 
 
 
-Ссылка https://sidorsan.github.io/mesto/index.html 
+Ссылка https://mesto-1f97c.web.app/
